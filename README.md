@@ -1,5 +1,8 @@
 # tku_mis_github_workshop_assignedment
 
+姓名：江鍾權
+班級：助教班
+
 ## Git 指令說明
 
 第一小題 說明 git clone, git pull, git checkout 差異。
